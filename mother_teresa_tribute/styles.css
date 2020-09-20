@@ -1,0 +1,28 @@
+#main {
+ text-align: center;
+  background-color: #e3e3e4;
+}
+
+#img-div {
+  background-color: white;
+  margin: 0 300px;
+}
+
+#img {
+  width: 100%;
+  height: auto;
+}
+
+ul {
+  display: table;
+  margin: 0 400px auto;
+}
+
+ul li {
+  text-align: left;
+}
+
+
+footer {
+  text-align: center;
+}
